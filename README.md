@@ -24,7 +24,7 @@ For this project, I was interestested in knowing the sentiment of a review and a
 - serve: Folder consists of files for prediction
 - train: Folder consists of files for training
 
-To walk-thru the full project, check out the [notebook](SageMaker Project.ipynb) and its [html](report.html) file .
+To walk-thru the full project, check out the [notebook](SageMaker_Project.ipynb) and its [html](report.html) file .
 Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## 4. Results - WebApp <a name="results"></a>
